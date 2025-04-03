@@ -1,0 +1,16 @@
+{
+  "name": "level-image-generator",
+  "version": "1.0.0",
+  "description": "Level Image Generator API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^22.0.0",
+    "chrome-aws-lambda": "^10.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
